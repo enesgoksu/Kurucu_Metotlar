@@ -1,0 +1,2 @@
+# Kurucu_Metotlar
+Exercises
